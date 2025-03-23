@@ -10,4 +10,4 @@ You will need to include your own wireless network information for: SECRET_SSID 
 
 and
 
-an IFTTT key for: "IFTTT_KEY {Your Key}"
+an IFTTT key for: IFTTT_KEY "{Your Key}"

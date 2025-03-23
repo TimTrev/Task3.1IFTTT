@@ -7,5 +7,7 @@ Arduino Nano 33 IoT component used for this project.
 NOTE manual setup required for allowing the project file "secrets.h" to connect with IFTTT services:
 
 You will need to include your own wireless network information for: SECRET_SSID " " and SECRET_PASS " "
+
 and
+
 an IFTTT key for: "IFTTT_KEY {Your Key}"
